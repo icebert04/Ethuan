@@ -61,6 +61,8 @@ This dApp was built using
 ## Storage Service
 
 The properties NFT image and metadata were uploaded to pinata IPFS :carousel_horse:
+
+And the smart contracts here were deployed to the Hardhat localhost node to simulate multiple users accounts
 ___
 
 > **Disclaimer**
