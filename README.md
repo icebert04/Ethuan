@@ -1,17 +1,18 @@
 # Ethaun Real Estate
 
-I've built my own **NFT Real Estate dApp**.
+Here is my own **NFT Real Estate dApp**.
 
 **Ethuan** was made to simplify the real estate process
 
-It is a platform where different users can inspect, lend, administrate, buy, and sell properties all inside of one Blockchain.
+It is a platform where different users can inspect, lend, administrate, buy, and sell properties using ERC721 (NFTs).
 
 here is the main site
+
+![Main](/images/Ethuan1.png)
+
 ___
 
-![Main]()
-
-___
+# Theory
 
 The process is simple...
 
@@ -34,15 +35,24 @@ Someone to review and confirm all of the above :pushpin:
 
 Payment will be of course in ETH. :small_blue_diamond:
 ___
+# User Interface
 The user interface will change depending on the wallet owner's role
-___
+here is an example...
+
+
 Buyer Interface
-![Buyer]()
+
+![Buyer](/images/Ethuan%20Buyer.png)
 
 Seller Interface
-![Seller]()
+
+![Seller](/images/Ethuan%20Seller.png)
+
 etc...
+Notice that the wallet connected for the two accounts are different
 ___
+# Dependencies
+
 This dApp was built using
 
 ## Front end
@@ -58,11 +68,14 @@ This dApp was built using
 * ERC721
 * IPFS
 
-## Storage Service
+## Storage And Hosting
 
 The properties NFT image and metadata were uploaded to pinata IPFS :carousel_horse:
 
-And the smart contracts here were deployed to the Hardhat localhost node to simulate multiple users accounts
+The smart contracts here were deployed to the Hardhat localhost node to simulate multiple users accounts
+
+Heres a sample of the Hardhat accounts
+![Metamask with multiple hardhat accounts](/images/Ethuan2.png)
 ___
 
 > **Disclaimer**
