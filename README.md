@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Ethaun Real Estate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I've built my own **NFT Real Estate dApp**.
 
-## Available Scripts
+**Ethuan** was made to simplify the real estate process
 
-In the project directory, you can run:
+It is a platform where different users can inspect, lend, administrate, buy, and sell properties all inside of one Blockchain.
 
-### `npm start`
+here is the main site
+___
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Main]()
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+___
 
-### `npm test`
+The process is simple...
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+When someone wishes to buy a property :house_with_garden:, it will require a few things
+* step 1
 
-### `npm run build`
+Somone to sell the property :moneybag:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* step 2 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Someone to inspect the property :mag_right:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* step 3
 
-### `npm run eject`
+Someone to lend money to the buyer if needed 💸
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* step 4
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Someone to review and confirm all of the above :pushpin:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Payment will be of course in ETH. :small_blue_diamond:
+___
+The user interface will change depending on the wallet owner's role
+___
+Buyer Interface
+![Buyer]()
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Seller Interface
+![Seller]()
+etc...
+___
+This dApp was built using
 
-## Learn More
+## Front end
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* React
+* Node
+* Ethers
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Back end
 
-### Code Splitting
+* Hardhat
+* Solidity
+* ERC721
+* IPFS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Storage Service
 
-### Analyzing the Bundle Size
+The properties NFT image and metadata were uploaded to pinata IPFS :carousel_horse:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+And the smart contracts here were deployed to the Hardhat localhost node to simulate multiple users accounts
+___
 
-### Making a Progressive Web App
+> **Disclaimer**
+> This repo is for demonstration purposes only. It is not yet complete and it still need to expand features. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+> Anyone is free to contribute to this dApp. 
 
-### Advanced Configuration
+Hope you can learn alot from this.
+Feel free to fork, and send your feedbacks on this Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thanks!
