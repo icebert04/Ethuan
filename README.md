@@ -4,7 +4,7 @@ Here is my own **NFT Real Estate dApp**.
 
 **Ethuan** was made to simplify the real estate process
 
-It is a platform where different users can inspect, lend, administrate, buy, and sell properties using ERC721 (NFTs).
+It is a platform where different users can inspect, lend, buy, and sell properties using ERC721 (NFTs).
 
 here is the main site
 
@@ -48,12 +48,13 @@ Seller Interface
 
 ![Seller](/images/Ethuan%20Seller.png)
 
-etc...
+and etc...
+
 Notice that the wallet connected for the two accounts are different
 ___
 # Dependencies
 
-This dApp was built using
+This dApp was built using...
 
 ## Front end
 
