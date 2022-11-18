@@ -10,8 +10,10 @@ const NavBar = ({ account, setAccount }) => {
         <nav>
             <ul className='nav_links'>
                 <li><a href="#">Buy</a></li>
-                <li><a href="#">Rent</a></li>
                 <li><a href="#">Sell</a></li>
+                <li><a href="#">Inspector</a></li>
+                <li><a href="#">Lender</a></li>
+                <li><a href="#">Admin</a></li>
             </ul>
 
             <div className='nav_branded'>
