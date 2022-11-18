@@ -1,8 +1,8 @@
-# Ethaun Real Estate
+# Ethaun Realty
 
 Here is my **NFT Real Estate dApp**.
 
-**Ethuan** was made to simplify the real estate process
+**Ethuan Realty** was made to simplify the real estate process
 
 It is a platform where different users can inspect, lend, buy, and sell properties using ERC721 (NFTs).
 
@@ -71,9 +71,9 @@ This dApp was built using...
 
 ## Storage And Hosting
 
-The properties NFT image and metadata were uploaded to pinata IPFS :carousel_horse:
+The properties NFT image and metadata were uploaded to **pinata IPFS** :carousel_horse:
 
-The smart contracts here were deployed to the Hardhat localhost node to simulate multiple users accounts
+The smart contracts here were deployed to the **Hardhat** localhost node to simulate multiple users accounts
 
 Here's a sample of the Hardhat accounts
 ![Metamask with multiple hardhat accounts](/images/Ethuan2.png)
