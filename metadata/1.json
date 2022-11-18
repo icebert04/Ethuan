@@ -1,0 +1,32 @@
+{
+    "name": "Camp John Hay Manor",
+    "description": "This is a privately owned unit for sale at the Manor Hotel",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQcrgVXjS47e6UtSs3okwnQR88etgmUugdwTgQnBHwvwH/Manor.png",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Manor Unit"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 1
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2200
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2003
+        }
+    ]
+}

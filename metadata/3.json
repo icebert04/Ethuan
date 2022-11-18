@@ -1,0 +1,32 @@
+{
+    "name": "Cozy Home In Molave",
+    "description": "House for sale in Merville Near the airport and commercial establishments",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQcrgVXjS47e6UtSs3okwnQR88etgmUugdwTgQnBHwvwH/Molave.jpeg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 25
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Residential House"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2500
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2012
+        }
+    ]
+}
